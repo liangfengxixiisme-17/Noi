@@ -8,6 +8,9 @@
     {
       "matches": [
         "https://example.com/*"
+        "https://yiyan.baidu.com/*",
+        "https://kimi.moonshot.cn/*",
+        "https://metaso.cn/*"
       ],
       "js": ["main.js"],
       "run_at": "document_end",
